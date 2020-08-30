@@ -4,3 +4,6 @@ Apple
 Bannana
 Curry 
 Beans
+
+Cereals
+Mangoes
